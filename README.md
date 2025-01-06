@@ -10,7 +10,7 @@ make
 or
 utilize all core in system 
 make -j$(nproc)
-If you are using an ninja than use ninja un Unix Makefiles 
+If you are using an ninja than use ninja instead of Unix Makefiles 
 else 
 
 cmake ..
