@@ -13,11 +13,11 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
+    - name: path
+      run:  cd ~/github-repo/Test_llvm_compiler/Kalido-comp
     - name: build
-      run: mkdir Kalido-comp/build
-    - name:  build
-      run: cd Kalido-comp/build
+      run: mkdir build && cd build
     - name: build
-      run: cmake .. -G "Unix Makefiles"  -DCMAKE_BUILD_TYPE=Debug 
+      run: cmake -G "Unix Makefiles"  -DCMAKE_BUILD_TYPE=Debug 
     - name: make 
       run: make -j$(nproc)
