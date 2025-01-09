@@ -1,0 +1,3 @@
+/home/piyush/github-repo/Test_llvm_compiler/Kalido-comp/build/CMakeFiles/parser.dir
+/home/piyush/github-repo/Test_llvm_compiler/Kalido-comp/build/CMakeFiles/edit_cache.dir
+/home/piyush/github-repo/Test_llvm_compiler/Kalido-comp/build/CMakeFiles/rebuild_cache.dir

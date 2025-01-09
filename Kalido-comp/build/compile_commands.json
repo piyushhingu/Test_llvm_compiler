@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/piyush/github-repo/Test_llvm_compiler/Kalido-comp/build",
+  "command": "/usr/local/bin/clang++ -I/home/piyush/github-repo/Test_llvm_compiler/Kalido-comp/include -g -std=gnu++17 -o CMakeFiles/parser.dir/src/main.cpp.o -c /home/piyush/github-repo/Test_llvm_compiler/Kalido-comp/src/main.cpp",
+  "file": "/home/piyush/github-repo/Test_llvm_compiler/Kalido-comp/src/main.cpp",
+  "output": "CMakeFiles/parser.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/piyush/github-repo/Test_llvm_compiler/Kalido-comp/build",
+  "command": "/usr/local/bin/clang++ -I/home/piyush/github-repo/Test_llvm_compiler/Kalido-comp/include -g -std=gnu++17 -o CMakeFiles/parser.dir/src/parser.cpp.o -c /home/piyush/github-repo/Test_llvm_compiler/Kalido-comp/src/parser.cpp",
+  "file": "/home/piyush/github-repo/Test_llvm_compiler/Kalido-comp/src/parser.cpp",
+  "output": "CMakeFiles/parser.dir/src/parser.cpp.o"
+},
+{
+  "directory": "/home/piyush/github-repo/Test_llvm_compiler/Kalido-comp/build",
+  "command": "/usr/local/bin/clang++ -I/home/piyush/github-repo/Test_llvm_compiler/Kalido-comp/include -g -std=gnu++17 -o CMakeFiles/parser.dir/src/lexer.cpp.o -c /home/piyush/github-repo/Test_llvm_compiler/Kalido-comp/src/lexer.cpp",
+  "file": "/home/piyush/github-repo/Test_llvm_compiler/Kalido-comp/src/lexer.cpp",
+  "output": "CMakeFiles/parser.dir/src/lexer.cpp.o"
+}
+]
