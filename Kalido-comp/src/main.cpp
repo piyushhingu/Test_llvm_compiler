@@ -10,7 +10,7 @@ int main(int argc, char* argv[]) {
         return 1;
     }
 
-    printf("hello");
+    // printf("hello");
     // Read input from the file specified as an argument
     std::ifstream file(argv[1]); // Assuming argv[1] is the file containing the input
     std::string input((std::istreambuf_iterator<char>(file)), std::istreambuf_iterator<char>());
